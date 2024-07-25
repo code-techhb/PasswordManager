@@ -23,20 +23,20 @@ Before running the application, ensure you have the following installed on your 
 After Cloning the repo and opening it in your favorite IDE, run the PasswordManager.py file.
 
 ## Usage
-Enter the website name, email, username, and the password you want to save.
+1. Enter the website name, email, username, and the password you want to save.
 Click the "Secure" button to save the information. The data is stored in a confidential.json file.
 
-Generate a Password:
+2. Generate a Password:
 Click the "Generate Password" button to create a new password if you don't want think of one yourself. 
 The password is automatically copied to your clipboard for convenience.
 
-Search for a Password:
+3. Search for a Password:
 Enter the website name and click the "Search" button to find your saved credentials.
 
 ## Files
-PasswordManager.py: Main application file containing all the logic and UI code.
-confidential.json: File used for storing the saved passwords (automatically created on first use).
-logo.png: Image file used as the application logo.
+- PasswordManager.py: Main application file containing all the logic and UI code.
+- confidential.json: File used for storing the saved passwords (automatically created on first use).
+-logo.png: Image file used as the application logo.
 
 ## What to expect
 Check these reels out: 
