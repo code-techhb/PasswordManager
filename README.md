@@ -36,7 +36,7 @@ Enter the website name and click the "Search" button to find your saved credenti
 ## Files
 - PasswordManager.py: Main application file containing all the logic and UI code.
 - confidential.json: File used for storing the saved passwords (automatically created on first use).
--logo.png: Image file used as the application logo.
+- logo.png: Image file used as the application logo.
 
 ## What to expect
 Check these reels out: 
